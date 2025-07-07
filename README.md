@@ -1,6 +1,6 @@
 # VHDL LAN Packet Switch (CRC-32 + FSM Based)
 
-This repository contains the final project for the **Computer Architecture** course at [Iran University of Science and Technology (IUST)](https://www.iust.ac.ir/) in Spring 1404 (Persian calendar, 2025), taught by Professor [Amir Mahdi Hosseini Monazzah](https://webpages.iust.ac.ir/monazzah/).
+This repository contains the final project for the **Computer Architecture** course at [Iran University of Science and Technology (IUST)](https://www.iust.ac.ir/en) in Spring 1404 (Persian calendar, 2025), taught by Professor [Amir Mahdi Hosseini Monazzah](https://webpages.iust.ac.ir/monazzah/).
 
 A configurable LAN packet switch implemented in VHDL, featuring CRC-32 error checking and finite state machine (FSM) based packet processing. this project demonstrates modular hardware design principles for network packet routing.
 
@@ -55,5 +55,5 @@ stateDiagram-v2
 
 ## 👨‍💻 Author
 - [Farzad Dehghan Manshadi](https://github.com/farzaddm) 
-- [Sourosh Ghaemi]()
+- [Sourosh Ghaemi](https://github.com/soroush2077)
 
