@@ -19,7 +19,7 @@ The system processes serial network packets with the following workflow:
 - **Testing**: Python 3.x (CRC validation scripts)
 
 
-## 🎛️ Finite State Machine Diagram
+## Finite State Machine Diagram
 ```mermaid
 stateDiagram-v2
     [*] --> WAITING
@@ -53,7 +53,7 @@ stateDiagram-v2
 └── pictures/                   # The result of simulation
 ```
 
-## 👨‍💻 Author
+## Author
 - [Farzad Dehghan Manshadi](https://github.com/farzaddm) 
 - [Sourosh Ghaemi](https://github.com/soroush2077)
 
